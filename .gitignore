@@ -1,0 +1,11 @@
+.DS_Store
+
+#Xcode Files
+Cocos2dApportableExtensions.xcodeproj/project.xcworkspace/*
+Cocos2dApportableExtensions.xcodeproj/xcuserdata/*
+
+#Apportable files
+.sconsign.dblite
+Release.final
+Release.generated
+Cocos2dApportableExtensions.approj/*
